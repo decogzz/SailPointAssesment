@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # GitHub API configuration
 repo_owner = "OWNER"
 repo_name = "REPO"
-github_pat = "YOUR_GITHUB_PAT"
+github_pat = "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"
 github_api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/pulls"
 
 # Email configuration
