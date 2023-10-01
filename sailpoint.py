@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 from datetime import datetime, timedelta
 
 # GitHub API configuration
-repo_owner = "OWNER"
-repo_name = "REPO"
+repo_owner = "decogzz"
+repo_name = "SailPointAssesment"
 github_pat = "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"
 github_api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/pulls"
 
